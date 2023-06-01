@@ -29,7 +29,9 @@ Zwei Reporterinnen der deutschen Zeitung “Die Zeit”i haben sich eine Start-u
 
 Auf Nachfrage der Journalistinnen, schrieb myclimate, dass es gar nicht möglich sei, alles zu überprüfen, und dass sie deshalb den Unternehmen ein Vertrauensvorschuss gegeben müssen. Ausserdem wird aus der Recherche der beiden klar, wie wenig es eigentlich kostet die errechneten 6,4 Tonnen CO2 zu kompensieren. So halten sie in dem am 8. September 2022 erschienen Artikel folgendes fest:
 
-zitat
+> *«Schließlich sollen wir 571 Euro zahlen. Die Einzelposten auf der Rechnung sind bemerkenswert: 422,65 Euro verlangt myclimate dafür, dass wir das Label nutzen dürfen. Nur 149 Euro fließen in das Klimaprojekt, um tatsächlich CO2 einzusparen.»*
+>
+> *— “Die Zeit“* 
 
 Es gibt Prüfungssiegel, aus welchen die Firmen auswählen können, welches zu ihnen passt. Die Prüfungssiegel sind private Unternehmen, die ihr Geld damit verdienen, indem sie die Firmen "prüfen".
 So schrieb die NZZ in einem Artikel vom 14.03.2023ii: «Doch jüngste Enthüllungen könnten dem boomenden Geschäft mit den Klimakompensationen nun einen harten Schlag versetzen. Auslöser ist eine Ende Januar publizierte Recherche der deutschen «Zeit», des britischen «Guardian» und des Reporterpools «Source Material».
@@ -57,7 +59,7 @@ Eine weitere Kategorie von Projekten befasst sich mit Energieproblemen. Hier sor
 
 ### Doch was ist nun die Lösung?
 
-![]()
+![Einkaufskorb mit verschiedenen „klimaneutralen“ Produkten. Foto: Nouria Felder (26.04.23)](154cd9be-44a2-42d4-a92b-59bdb6c4d43b-3.jpeg)
 
 Sicher braucht es bessere Regeln und Gesetze für sogenannte “green claims”. So schreibt die Verbraucherzentrale Deutschland in einer Stellungnahme für den deutschen Bundestag vom 3. November 2022iii:
 
@@ -78,7 +80,9 @@ Es ist wichtiger die Leute aufzuklären, was Klimaneutralität überhaupt beinha
 
 Der ganze Markt wird aktuell von verschiedenen Seiten und Klimaschutzorganisationen analysiert und näher angeschaut. Sie kritisieren unteranderem, dass sich Unternehmen vom wahren Problem „freikaufen“, statt sich damit zu befassen. Dazu meint auch Lina, die das Thema mitverfolgt hat:
 
-zitat
+> *«Es ist ein moderner Ablasshandel, ich «sündige» und danach zahle ich halt ein bisschen mehr.»*
+>
+> *— Lina* 
 
 Auf die Frage, was man als Konsument machen könnte, gibt Lorena Huber uns den Tipp, dass man darauf achten solle, ob sich das Label nur auf das Produkt bezieht oder auf das Ganze Unternehmen. Sie macht auch klar, dass bei vielen Unternehmen nicht alle Faktoren in die CO2-Bilanz miteinbezogen werden.
 
