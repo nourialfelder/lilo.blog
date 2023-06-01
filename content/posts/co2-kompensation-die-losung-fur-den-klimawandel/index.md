@@ -57,3 +57,12 @@ Sicher braucht es bessere Regeln und Gesetze für sogenannte “green claims”.
 «Klimaneutralitäts-Claims und ihre Äquivalente sollten aus Sicht des vzbv explizit verboten werden. Orientierung bieten kann hier ein entsprechendes französisches Gesetz, da es verbietet zu behaupten, „dass ein Produkt oder eine Dienstleistung CO2-neutral ist, oder Formulierungen mit gleichwertiger Bedeutung oder Tragweite“ zu verwenden.»
 
 In diesem Abschnitt wird das am 25. August 2021 in Kraft getretene französische Gesetziv erwähnt, in dem es Unternehmen verboten wird in einer Werbung zu behaupten, ein Produkt sei klimaneutral, sofern nicht eine CO2-Bilanz des Produkts sowie der Weg zur Verringerung der Treibhausgas Emissionen öffentlich leicht zugänglich gemacht wird.
+
+Solche und noch verbesserte Gesetze bräuchte es in allen Ländern.
+Es müsste eine international unabhängige Organisation geben, die sowohl die Firmen als auch die CO2-Zertifikate prüft, damit nicht die monetären Interessen einer privaten Instanz die Entscheidung beeinflussen können.
+
+In der Schweiz sind während unserer Recherche einige kritikreiche Artikel erschienen. In einem Bund Artikelv vom 15.04.2023 wird darüber berichtet wie Greenpeace verschiedene Unternehmen (darunter auch Migros und Coop) des Greenwashings und der Intransparenz beschuldigt. Als Reaktion darauf verabschieden sich manche Unternehmen von ihrem “klimaneutral” Label.
+Auch ClimatePartner hat vor kurzem ihr Label für Klimaneutralität abgeschafft und durch ein neues ersetzt.
+
+«ClimatePartner zertifizert» soll es nun heissen.
+«Es geht um die Sache und nicht um den Begriff», erwidert Lina auf unsere Frage, ob sie diese Entscheidung unterstützt.
