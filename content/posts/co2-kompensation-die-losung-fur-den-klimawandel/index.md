@@ -7,6 +7,8 @@ tags = ["deutschreportage"]
 image = "31dbe7da-a953-412e-ad94-af872e7ac2c4-2.jpg"
 description = "In Supermärkten sieht Lina immer mehr Labels, die Klimaneutralität versprechen, jedoch tendiert sie immer wieder dazu, nach den günstigeren Angeboten zu greifen. Sollte sie sich dafür schuldig fühlen? Oder sind diese klimaneutralen Labels doch gar nicht so grün, wie sie versprechen, und schaden sie vielleicht sogar der Umwelt?"
 +++
+In Supermärkten sieht Lina immer mehr Labels, die Klimaneutralität versprechen, jedoch tendiert sie immer wieder dazu, nach den günstigeren Angeboten zu greifen. Sollte sie sich dafür schuldig fühlen? Oder sind diese klimaneutralen Labels doch gar nicht so grün, wie sie versprechen, und schaden sie vielleicht sogar der Umwelt?
+
 ### Klimaneutralität, wie?
 
 "Klimaneutral"- dieses Label soll zeigen, dass sich ein Unternehmen mit seinem CO2- Fussabdruck befasst und bereit ist, diesen zu verkleinern und nach nachhaltigen Lösungen zu suchen. Eigentlich eine gute Idee, doch dahinter steckt eine ganze Wirtschaft, die von diesen Versprechen lebt.
