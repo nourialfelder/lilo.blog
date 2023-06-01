@@ -1,7 +1,7 @@
 +++
 title = "CO2- Kompensation, die Lösung für den Klimawandel?"
 date = "2023-06-01"
-draft = false
+draft = true
 pinned = false
 tags = ["deutschreportage"]
 image = "31dbe7da-a953-412e-ad94-af872e7ac2c4-2.jpg"
@@ -12,6 +12,8 @@ description = "In Supermärkten sieht Lina immer mehr Labels, die Klimaneutralit
 "Klimaneutral"- dieses Label soll zeigen, dass sich ein Unternehmen mit seinem CO2- Fussabdruck befasst und bereit ist, diesen zu verkleinern und nach nachhaltigen Lösungen zu suchen. Eigentlich eine gute Idee, doch dahinter steckt eine ganze Wirtschaft, die von diesen Versprechen lebt.
 
 Stell dir vor, du hast ein Unternehmen und dein Ziel ist es, bis ins Jahr 2040 Netto-Null zu erreichen. Du schaffst das aber nicht von heute auf morgen. Du kannst zwar grünere Rohstoffe einkaufen und andere Verpackungen brauchen und trotzdem wird im ganzen Herstellungsprozess und in der Transportkette noch sehr viel CO2 ausgestossen. In diesen beiden Bereichen ist es sehr viel schwieriger, klimaneutral zu werden, und oftmals ist es mit sehr viel Geld und Aufwand verbunden. Hier kommt die CO2-Kompensation ins Spiel. Meist ist es für ein Unternehmen einfacher, das Geld, das für die Veränderungen aufgewendet werden müsste, in CO2- Kompensation zu investieren. Doch das Problem ist nicht gelöst, die Unternehmen schieben so den Aufwand zeitlich nur auf oder sogar ganz weg.
+
+![Person beim Einkaufen. Foto: Timea Meyer (26.04.23)](31dbe7da-a953-412e-ad94-af872e7ac2c4-2.jpg)
 
 ### Was genau ist diese CO2-Kompensation und wie funktioniert sie?
 
@@ -31,7 +33,7 @@ Auf Nachfrage der Journalistinnen, schrieb myclimate, dass es gar nicht möglich
 
 > *«Schließlich sollen wir 571 Euro zahlen. Die Einzelposten auf der Rechnung sind bemerkenswert: 422,65 Euro verlangt myclimate dafür, dass wir das Label nutzen dürfen. Nur 149 Euro fließen in das Klimaprojekt, um tatsächlich CO2 einzusparen.»*
 >
-> *— “Die Zeit“* 
+>  *“Die Zeit“* 
 
 Es gibt Prüfungssiegel, aus welchen die Firmen auswählen können, welches zu ihnen passt. Die Prüfungssiegel sind private Unternehmen, die ihr Geld damit verdienen, indem sie die Firmen "prüfen".
 So schrieb die NZZ in einem Artikel vom 14.03.2023ii: «Doch jüngste Enthüllungen könnten dem boomenden Geschäft mit den Klimakompensationen nun einen harten Schlag versetzen. Auslöser ist eine Ende Januar publizierte Recherche der deutschen «Zeit», des britischen «Guardian» und des Reporterpools «Source Material».
@@ -82,7 +84,7 @@ Der ganze Markt wird aktuell von verschiedenen Seiten und Klimaschutzorganisatio
 
 > *«Es ist ein moderner Ablasshandel, ich «sündige» und danach zahle ich halt ein bisschen mehr.»*
 >
-> *— Lina* 
+>  *Lina* 
 
 Auf die Frage, was man als Konsument machen könnte, gibt Lorena Huber uns den Tipp, dass man darauf achten solle, ob sich das Label nur auf das Produkt bezieht oder auf das Ganze Unternehmen. Sie macht auch klar, dass bei vielen Unternehmen nicht alle Faktoren in die CO2-Bilanz miteinbezogen werden.
 
