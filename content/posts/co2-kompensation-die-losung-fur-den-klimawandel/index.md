@@ -4,6 +4,7 @@ date = "2023-06-01"
 draft = true
 pinned = false
 tags = ["deutschreportage"]
+image = "31dbe7da-a953-412e-ad94-af872e7ac2c4-2.jpg"
 description = "In Supermärkten sieht Lina immer mehr Labels, die Klimaneutralität versprechen, jedoch tendiert sie immer wieder dazu, nach den günstigeren Angeboten zu greifen. Sollte sie sich dafür schuldig fühlen? Oder sind diese klimaneutralen Labels doch gar nicht so grün, wie sie versprechen, und schaden sie vielleicht sogar der Umwelt?"
 +++
 ### Klimaneutralität, wie?
@@ -21,6 +22,8 @@ Dein Unternehmen hat jetzt die Möglichkeit, einer spezialisierten Firma (in uns
 Klingt noch vernünftig, oder?
 
 Jedoch ist das Ganze nicht so einfach. Ein Problem ist, dass es keinen weltweit verbreiteten Standard für die Berechnung der Emissionen eines Unternehmens gibt. Firmen wie ClimatePartner haben einen firmeninternen Algorithmus, der nicht für die Öffentlichkeit einsehbar ist, der Prognosen für den CO2-Austoss des Kunden berechnet. Diese Berechnungen sind bei vielen Firmen zu hoch angesetzt, und somit übertrieben und unrealistisch. Dadurch wirkt der Einsatz für den Umweltschutz der Firma beeindruckender. Man muss sich die Frage stellen, ob dieser Ausstoss an CO2 wirklich so hoch ist, oder ob die Firmen mit ihrer Verkaufsstrategie nur auf den Profit aus sind.
+
+![Honig mit dem ClimatePartner Siegel. Foto: Timea Meyer (26.04.23)](aa5523d8-6956-4469-97f7-061056cf176d.jpeg)
 
 Zwei Reporterinnen der deutschen Zeitung “Die Zeit”i haben sich eine Start-up Firma ausgedacht, und dann bei myclimate probiert, ein «klimaneutraler Betrieb» zu werden. Im Prozess haben sie extra unrealistisch niedrige Zahlen angegeben. Bei der Vergabe des Labels hat das niemand hinterfragt.
 
@@ -54,6 +57,8 @@ Eine weitere Kategorie von Projekten befasst sich mit Energieproblemen. Hier sor
 
 ### Doch was ist nun die Lösung?
 
+![]()
+
 Sicher braucht es bessere Regeln und Gesetze für sogenannte “green claims”. So schreibt die Verbraucherzentrale Deutschland in einer Stellungnahme für den deutschen Bundestag vom 3. November 2022iii:
 
 «Klimaneutralitäts-Claims und ihre Äquivalente sollten aus Sicht des vzbv explizit verboten werden. Orientierung bieten kann hier ein entsprechendes französisches Gesetz, da es verbietet zu behaupten, „dass ein Produkt oder eine Dienstleistung CO2-neutral ist, oder Formulierungen mit gleichwertiger Bedeutung oder Tragweite“ zu verwenden.»
@@ -70,7 +75,6 @@ Auch ClimatePartner hat vor kurzem ihr Label für Klimaneutralität abgeschafft 
 «Es geht um die Sache und nicht um den Begriff», erwidert Lina auf unsere Frage, ob sie diese Entscheidung unterstützt.
 
 Es ist wichtiger die Leute aufzuklären, was Klimaneutralität überhaupt beinhaltet. Laut einer Studie von Lebensmittelklarheit.devi konnten nämlich nur 10 Prozent der Befragten den Zusammenhang von “Klimaneutralität” und Kompensation korrekt einordnen.
-
 
 Der ganze Markt wird aktuell von verschiedenen Seiten und Klimaschutzorganisationen analysiert und näher angeschaut. Sie kritisieren unteranderem, dass sich Unternehmen vom wahren Problem „freikaufen“, statt sich damit zu befassen. Dazu meint auch Lina, die das Thema mitverfolgt hat:
 
