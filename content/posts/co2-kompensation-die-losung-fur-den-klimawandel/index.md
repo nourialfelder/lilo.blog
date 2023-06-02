@@ -26,7 +26,7 @@ Dein Unternehmen hat jetzt die Möglichkeit, einer spezialisierten Firma (in uns
 
 Klingt noch vernünftig, oder?
 
-Jedoch ist das Ganze nicht so einfach. Ein Problem ist, dass es keinen weltweit verbreiteten Standard für die Berechnung der Emissionen eines Unternehmens gibt. Firmen wie ClimatePartner haben einen firmeninternen Algorithmus, der nicht für die Öffentlichkeit einsehbar ist, der Prognosen für den CO2-Austoss des Kunden berechnet. Diese Berechnungen sind bei vielen Firmen zu hoch angesetzt, und somit übertrieben und unrealistisch. Dadurch wirkt der Einsatz für den Umweltschutz der Firma beeindruckender. Man muss sich die Frage stellen, ob dieser Ausstoss an CO2 wirklich so hoch ist, oder ob die Firmen mit ihrer Verkaufsstrategie nur auf den Profit aus sind.
+Jedoch ist das Ganze nicht so einfach. Ein Problem ist, dass es keinen weltweit verbreiteten Standard für die Berechnung der Emissionen eines Unternehmens gibt. Firmen wie ClimatePartner haben ein firmeninternes Programm, welches nicht für die Öffentlichkeit einsehbar ist, das die Angaben von Kunden in CO2 Emissionen umrechnet. Diese Berechnungen sind bei vielen Firmen zu hoch angesetzt, und somit übertrieben und unrealistisch. Dadurch wirkt der Einsatz für den Umweltschutz der Firma beeindruckender. Man muss sich die Frage stellen, ob dieser Ausstoss an CO2 wirklich so hoch ist, oder ob die Firmen mit ihrer Verkaufsstrategie nur auf den Profit aus sind.
 
 ![Honig mit dem ClimatePartner Siegel. Foto: Timea Meyer (26.04.23)](aa5523d8-6956-4469-97f7-061056cf176d.jpeg)
 
