@@ -89,7 +89,7 @@ Der ganze Markt wird aktuell von verschiedenen Seiten und Klimaschutzorganisatio
 >
 >  *Lina* 
 
-Auf die Frage, was man als Konsument machen könnte, gibt Lorena Huber uns den Tipp, dass man darauf achten solle, ob sich das Label nur auf das Produkt bezieht oder auf das Ganze Unternehmen. Sie macht auch klar, dass bei vielen Unternehmen nicht alle Faktoren in die CO2-Bilanz miteinbezogen werden.
+Auf die Frage, was man als Konsument machen könnte, gibt Lorena Huber uns den Tipp, dass man darauf achten solle, ob sich das Label nur auf das Produkt bezieht oder auf das ganze Unternehmen. Sie macht auch klar, dass bei vielen Unternehmen nicht alle Faktoren in die CO2-Bilanz miteinbezogen werden.
 
 Wichtig ist, schreibt auch die deutsche Verbraucherzentrale in ihrem Artikel über “Klimaneutale” Produkte\[7], dass nur ein grünes Label nicht unbedingt ein Kaufgrund sein sollte. Vor allem bei Produkten, die sonst als eher klimaschädlich eingestuft werden (zu Beispiel Fleisch oder Avocados).
 
